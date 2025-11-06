@@ -6,3 +6,5 @@ Este código foi projetado para o ESP32 DevKit Wroom-32.
 Para utiliza-lo você deve instalar a biblioteca do Esp32 "Arduino_ESP32_OTA" e a "Liquid Crystal"
 
 O código foi feito para simular os sensores de vazão e pressão YF-S201 e MPX-5010 com a entrada de um potenciômetro de 10k
+
+Caso precise de ajuda para montagem do circuito: https://wokwi.com/projects/428791309211337729
