@@ -1,10 +1,9 @@
 /* Projeto: Prototipo de Medidor de Vazão e Pressão com ESP32
 
 
-integrantes do grupo:
+
 - Joao Pedro Marucci Pagliuso
-- Gabriel Romão Ikegami
-- Victor Thiago BArbosa
+
 
 
 Descrição: Este código é um protótipo de um medidor de vazão e pressão utilizando um ESP32.
